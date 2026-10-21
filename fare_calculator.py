@@ -1,5 +1,3 @@
-#Add initial Python program (V1)
-
 # Travel Fare Calculator
 FARE_RATE = 14
 
